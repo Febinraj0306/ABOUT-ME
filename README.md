@@ -14,19 +14,12 @@
 
 ## 🚀 Live Demo
 
-> **🔗 [YOUR_LIVE_DEMO_URL_HERE](YOUR_LIVE_DEMO_URL_HERE)**
+> **🔗 [YOUR_LIVE_DEMO_URL_HERE]((https://about-me-sepia-tau.vercel.app/))**
 >
 > *(Replace this placeholder with your deployed URL — e.g. Vercel, Netlify, GitHub Pages)*
 
 ---
 
-## 📸 Preview
-
-| Hero Section | Social Links |
-|---|---|
-| *Screenshot coming soon* | *Screenshot coming soon* |
-
----
 
 ## 👤 About Me
 
