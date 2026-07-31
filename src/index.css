@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+:root {
+  --font-inter: "Inter", sans-serif;
+  --color-brand-dark: #0f172a;
+  --color-brand-light: #edf4ff;
+  --color-brand-navy: #0a3d91;
+}
+
+@layer base {
+  body {
+    background-color: #ffffff;
+    color: var(--color-brand-dark);
+    font-family: var(--font-inter);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    min-height: 100vh;
+    overflow-x: hidden;
+  }
+}
+
+.max-w-content {
+  max-width: 1200px;
+  margin: 0 auto;
+}
