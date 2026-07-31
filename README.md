@@ -3,7 +3,7 @@
 
 **A bold, typography-driven personal portfolio built with React + Vite + TypeScript + Tailwind CSS**
 
-[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Site-blue?style=for-the-badge)]((https://about-me-sepia-tau.vercel.app/))
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Site-blue?style=for-the-badge)](https://about-me-sepia-tau.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-febin--raj03-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/febin-raj03)
 [![GitHub](https://img.shields.io/badge/GitHub-Febinraj0306-181717?style=for-the-badge&logo=github)](https://github.com/Febinraj0306)
 [![Instagram](https://img.shields.io/badge/Instagram-_febinnnn_._-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/_febinnnn_._)
@@ -14,9 +14,8 @@
 
 ## 🚀 Live Demo
 
-> **🔗 [YOUR_LIVE_DEMO_URL_HERE]((https://about-me-sepia-tau.vercel.app/))**
->
-> *(Replace this placeholder with your deployed URL — e.g. Vercel, Netlify, GitHub Pages)*
+> **🔗 [(https://about-me-sepia-tau.vercel.app/])**
+
 
 ---
 
